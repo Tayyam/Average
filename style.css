@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+table ,tr ,th {
+    border: 1px black solid;
+}
+th{
+    padding: 20px;
+}

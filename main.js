@@ -1,0 +1,23 @@
+var num1=1;
+var num2=2;
+var num3=3;
+var num4=4;
+var num5=5;
+var num6=6;
+var num7=7;
+var num8=8;
+var num9=9;
+var num10=10;
+var average = (num1+num2+num3+num4+num5+num6+num7+num8+num9+num10)/10;
+
+document.getElementById("num1").innerHTML = num1;
+document.getElementById("num2").innerHTML = num2;
+document.getElementById("num3").innerHTML = num3;
+document.getElementById("num4").innerHTML = num4;
+document.getElementById("num5").innerHTML = num5;
+document.getElementById("num6").innerHTML = num6;
+document.getElementById("num7").innerHTML = num7;
+document.getElementById("num8").innerHTML = num8;
+document.getElementById("num9").innerHTML = num9;
+document.getElementById("num10").innerHTML = num10;
+document.getElementById("result").innerHTML = average;
